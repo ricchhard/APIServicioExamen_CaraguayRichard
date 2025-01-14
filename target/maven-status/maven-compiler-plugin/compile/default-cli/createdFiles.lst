@@ -1,0 +1,6 @@
+com\espe\Examen\examen\repositories\ExamenRepository.class
+com\espe\Examen\examen\models\entities\Examen.class
+com\espe\Examen\examen\services\ExamenServiceImpl.class
+com\espe\Examen\examen\ExamenApplication.class
+com\espe\Examen\examen\services\ExamenService.class
+com\espe\Examen\examen\controllers\ExamenController.class
